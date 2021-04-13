@@ -1,0 +1,107 @@
+body {
+  background-color: #e6f2ff;
+  font-size: 18px;
+  font-family: Garamond, serif;
+}
+
+.verse-button {
+  font-size: 20px;
+  padding: 8px;
+  margin-left: 8px;
+  margin-right: 8px;
+  border-radius: 10px;
+  font-family: Garamond, serif;
+}
+
+input {
+  font-size: 20px;
+}
+
+iframe {
+  float: left;
+  margin-bottom: 10px;
+}
+
+.korean-image img {
+  width: calc(100% - 600px);
+  max-width: 600px;
+  min-width: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.christ-image img{
+  width: 300px;
+}
+.christ-image {
+  width: 100%;
+  text-align: center;
+}
+.buttons {
+  width: 100%;
+  text-align: center;
+  margin: 10px;
+}
+
+form {
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+}
+
+.printed-image img {
+  width: 50%;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  max-height: 700px;
+}
+.header {
+  height: 50px;
+  width: 100%;
+  background-color: grey;
+  margin-bottom: 10px;
+}
+
+#bibleInput {
+  margin-bottom: 10px;
+}
+#bible-passage {
+  min-height: 400px;
+}
+.footer {
+  height: 50px;
+  width: 100%;
+  background-color: grey;
+  margin-bottom: 10px;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  clear: both;
+}
+.quote {
+  font-size: 20px;
+}
+.third-nephi {
+  margin-bottom: 10px;
+  clear: both;
+}
+.kingdom-meme img {
+  width: calc(100% - 600px);
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.Eyering-quote {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.benson-quote {
+  font-size: 20px;
+}
+.footer a {
+  text-decoration: none;
+  color: white;
+}
